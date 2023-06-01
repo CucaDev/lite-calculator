@@ -1,6 +1,7 @@
 # lite-calculator
 # Calculadora feita para praticar
-*O objetivo principal dessa calculadora foi pra praticar e futuramente expandir e melhorar sua funcionalidade*
+*O objetivo principal dessa calculadora foi pra praticar e futuramente expandir e melhorar sua funcionalidade.*
+
 Inclusive, próximas atualizações é trocar o botão "C" para "Deletar" e o botão "D" para "Apagar" deixando assim mais claro o entendimento dos botões.
 
 ## Para o funcionamento:
@@ -9,4 +10,4 @@ Inclusive, próximas atualizações é trocar o botão "C" para "Deletar" e o bo
 
 
 
-Ass: Cuca 😝
+*Ass: Cuca* 😝
